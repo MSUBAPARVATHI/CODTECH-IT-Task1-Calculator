@@ -52,4 +52,8 @@ Enter second number: 10
 Choose an operation (+, -, *, /): +
 
 Result: 30
+// Eclipse IDE - Java Output
+
+https://github.com/MSUBAPARVATHI/CODTECH-IT-Task1-Calculator/blob/main/Calculator%20Output.png
+
 
